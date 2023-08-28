@@ -23,7 +23,7 @@ class programm
         {
            mayor=n2;
         }
-        else if (n3 > mayor)
+        if (n3 > mayor)
         {
             mayor=n3;
         }
